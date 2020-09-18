@@ -1,0 +1,25 @@
+2020-07-16 14:44:40,893 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 14:46:06,742 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 14:58:07,152 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 15:00:04,351 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 15:47:08,213 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 16:41:10,680 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 16:42:13,947 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 16:42:40,367 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:30:20,745 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:36:23,135 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:43:30,848 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:45:30,816 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:47:26,313 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:51:22,506 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:51:54,551 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:54:22,021 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:54:56,960 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:58:39,976 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 19:00:46,245 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 19:58:50,575 - tools.report.log_tool - ERROR - ('xpath', "//span[text()='运营管理']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 16:39:21,304 - tools.report.log_tool - ERROR - ('xpath', "//span[text()='默认']/..//div[@class='el-tooltip el-slider__button']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:08:38,343 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:09:57,840 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:10:59,556 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:12:18,687 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式

@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-7HR5SK1",
+    "children" : [ {
+      "name" : "5924-MainThread",
+      "children" : [ {
+        "name" : "登录",
+        "uid" : "c7a0e94d25b7ba58",
+        "parentUid" : "61ce8105fb0d18d7a579a9e7ce9c6e8e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595317184579,
+          "stop" : 1595317195188,
+          "duration" : 10609
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61ce8105fb0d18d7a579a9e7ce9c6e8e"
+    } ],
+    "uid" : "c8085fbfe027c15d8522870a057c5de1"
+  } ]
+}

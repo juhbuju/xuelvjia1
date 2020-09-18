@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "用户模块",
+    "children" : [ {
+      "name" : "用户登录",
+      "children" : [ {
+        "name" : "登录",
+        "uid" : "c7a0e94d25b7ba58",
+        "parentUid" : "6a5ec3ed8ec57d709ec528c996821a1f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595317184579,
+          "stop" : 1595317195188,
+          "duration" : 10609
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a5ec3ed8ec57d709ec528c996821a1f"
+    } ],
+    "uid" : "05b3bb5a51bf85f3651d2c2626f5468c"
+  } ]
+}

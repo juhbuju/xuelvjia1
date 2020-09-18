@@ -1,0 +1,543 @@
+2020-07-16 14:40:51,710 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:41:30,238 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:41:30,317 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-07-16 14:44:06,548 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 14:44:06,550 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:44:08,167 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-16 14:44:08,475 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="0a680354be6a4c066cef03060d596c2f", element="72072edf-3446-423a-a2bd-e9fa6a66a752")> 中输入： 手机 
+2020-07-16 14:44:08,991 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-07-16 14:44:30,327 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='纯单选框']/../div/input[1] 
+2020-07-16 14:44:40,893 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 14:45:32,869 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 14:45:32,871 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:45:34,342 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-16 14:45:34,458 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="429195812cf9f237198f52b3905a88ca", element="ba964fe2-eae5-48c9-bc71-1520e9c4eb0e")> 中输入： 手机 
+2020-07-16 14:45:34,897 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-07-16 14:45:56,227 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='纯单选框']/../div/input[1] 
+2020-07-16 14:46:06,742 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 14:57:32,724 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 14:57:32,726 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:57:34,079 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-16 14:57:34,261 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c78c1c71f264418d67914d8a789b6e05", element="3ffd1803-5b0f-438f-b340-53932304312c")> 中输入： 手机 
+2020-07-16 14:57:34,827 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-07-16 14:57:56,734 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='纯单选框']/../div/input[1] 
+2020-07-16 14:58:07,152 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 14:59:05,650 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 14:59:05,652 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:59:07,483 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-16 14:59:07,518 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="e4be8808df82e8d857208a89d6d14bad", element="856c6bde-0499-45a3-81a6-23dcb08458e8")> 中输入： 手机 
+2020-07-16 14:59:29,983 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 14:59:29,984 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 14:59:31,897 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-16 14:59:32,026 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="fd3c4f81268b890fea5698492b75fbac", element="2cf44229-eb7a-4853-9279-2e1be049836b")> 中输入： 手机 
+2020-07-16 14:59:32,528 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-07-16 14:59:53,800 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='纯单选框']/../div/input[1] 
+2020-07-16 15:00:04,351 - tools.report.log_tool - ERROR - ('xpath', "//label[text()='纯单选框']/../div/input[1]")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 15:44:26,095 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 15:44:26,097 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-07-16 15:44:27,712 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-07-16 15:44:27,891 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2c98f05ee6a929edf51f48e5d35be148", element="a285bc34-a837-44ff-b15a-8d3254084368")> 中输入： 手机 
+2020-07-16 15:44:47,343 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 15:44:47,346 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 15:46:57,656 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 15:47:08,213 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 15:47:37,631 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 15:47:37,632 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 16:18:13,573 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-16 16:18:13,575 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 16:18:13,611 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c84083e9f6048a387408003b28cecb7c", element="f5236273-8cc6-4c62-bd94-26e69430780b")> 中输入： admin 
+2020-07-16 16:18:14,051 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 16:18:14,085 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c84083e9f6048a387408003b28cecb7c", element="d64086b8-a1a0-469c-a0bc-41499e493530")> 中输入： 1234567 
+2020-07-16 16:18:14,536 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 16:18:14,570 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c84083e9f6048a387408003b28cecb7c", element="2ef27bc3-d89c-4874-9735-967d5b576b41")> 
+2020-07-16 16:18:14,862 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 16:18:14,900 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c84083e9f6048a387408003b28cecb7c", element="3b07e5e6-6a1a-487f-87bb-184c00c0206c")> 中输入： 1111 
+2020-07-16 16:18:17,373 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 16:18:17,423 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c84083e9f6048a387408003b28cecb7c", element="1bee8cbf-dedd-4f50-a8fe-37695f43e0a1")> 
+2020-07-16 16:41:10,680 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 16:42:13,947 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 16:42:40,367 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:30:20,745 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:36:23,135 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:43:30,848 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:45:30,816 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:47:26,313 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-07-16 18:51:11,926 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 18:51:11,927 - tools.report.log_tool - INFO - 浏览器以启动，请勿再次启动浏览器。
+2020-07-16 18:51:11,928 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 18:51:22,506 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:51:44,002 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 18:51:44,002 - tools.report.log_tool - INFO - 浏览器以启动，请勿再次启动浏览器。
+2020-07-16 18:51:44,004 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 18:51:54,551 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:54:11,462 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 18:54:11,462 - tools.report.log_tool - INFO - 浏览器以启动，请勿再次启动浏览器。
+2020-07-16 18:54:11,463 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 18:54:22,021 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:54:46,403 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 18:54:46,404 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 18:54:56,960 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 18:58:29,416 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 18:58:29,417 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 18:58:39,976 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 19:00:35,707 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:00:35,709 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:00:46,245 - tools.report.log_tool - ERROR - ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 19:01:17,693 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:01:17,695 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:01:34,183 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:01:34,185 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 19:01:49,154 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:01:49,203 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="884482fe5dc9ac33ac270f363014e715", element="c57b5feb-de63-49c9-ab4c-fadaae85d04f")> 中输入： admin 
+2020-07-16 19:01:49,689 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 19:01:49,732 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="884482fe5dc9ac33ac270f363014e715", element="2916565e-25b5-48a5-9fa2-d553963728c6")> 中输入： 1234567 
+2020-07-16 19:01:50,227 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 19:01:50,261 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="884482fe5dc9ac33ac270f363014e715", element="574bf6c7-f384-47db-81e4-ccaf15a51efc")> 
+2020-07-16 19:01:50,817 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 19:01:50,866 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="884482fe5dc9ac33ac270f363014e715", element="6bcb158a-43f5-41fb-bc22-d3afd4581380")> 中输入： 1111 
+2020-07-16 19:01:53,289 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 19:01:53,334 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="884482fe5dc9ac33ac270f363014e715", element="ab4f8050-f2c7-4424-8f5f-bdf340cdff48")> 
+2020-07-16 19:04:57,894 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:04:57,895 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 19:05:14,983 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:05:15,033 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d48b1765001df2d3e0106afafaee0c20", element="9020db4e-fe65-4361-8aa6-b50e33f009a4")> 中输入： admin 
+2020-07-16 19:05:15,538 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 19:05:15,579 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d48b1765001df2d3e0106afafaee0c20", element="bc820ae9-fced-4598-add9-9fecef8cc376")> 中输入： 1234567 
+2020-07-16 19:05:16,077 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 19:05:16,117 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d48b1765001df2d3e0106afafaee0c20", element="3d8abf8f-e881-489a-bcf6-1a8def41c72a")> 
+2020-07-16 19:05:16,662 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 19:05:16,741 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d48b1765001df2d3e0106afafaee0c20", element="77436f12-d5de-49d3-b22a-b91a8f777642")> 中输入： 1111 
+2020-07-16 19:05:19,149 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 19:05:19,197 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d48b1765001df2d3e0106afafaee0c20", element="8523be09-a56e-4091-857b-fd9a336ac0fe")> 
+2020-07-16 19:05:23,770 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-16 19:05:27,151 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d48b1765001df2d3e0106afafaee0c20", element="6bd106ae-8486-4dae-a16d-5d2257650417")> 
+2020-07-16 19:06:49,828 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:06:49,830 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 19:07:04,627 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:07:04,682 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="4ec40cab-becf-4c56-b66e-18e03904b47f")> 中输入： admin 
+2020-07-16 19:07:05,166 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 19:07:05,205 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="df16de57-9893-4b68-95b0-bf70f55f5e57")> 中输入： 1234567 
+2020-07-16 19:07:05,609 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 19:07:05,643 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="3245eec5-106f-4440-814a-733fefc7a475")> 
+2020-07-16 19:07:06,185 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 19:07:06,257 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="a29e2a76-c8af-447f-90f5-0453202fbe17")> 中输入： 1111 
+2020-07-16 19:07:08,624 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 19:07:08,672 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="80a0dfad-e57d-4212-a5a2-d2362af9e703")> 
+2020-07-16 19:07:13,228 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-16 19:07:14,632 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="ace5ff74-683b-471f-83d1-e6b37ca47201")> 
+2020-07-16 19:07:15,384 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-16 19:07:15,560 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="fe8a1bed-927e-4de0-b9ef-bf37d5b92f46")> 
+2020-07-16 19:07:16,197 - tools.report.log_tool - INFO - 定位元素 //span[text()='添加'] 
+2020-07-16 19:07:16,876 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="fc3748f6-f296-4057-a3a6-3ef45e0314be")> 
+2020-07-16 19:07:17,614 - tools.report.log_tool - INFO - 定位元素 //label[text()='模板名称']/../div//input 
+2020-07-16 19:07:17,830 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="9bd80db8-a7c3-4634-9c12-15a27e456335")> 中输入： huwx 
+2020-07-16 19:07:18,342 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货地址']/../div//input 
+2020-07-16 19:07:18,376 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="9dd206dd-9e70-49d4-a8ae-230ace2cb093")> 中输入： 上海市 
+2020-07-16 19:07:18,792 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货期限']/../div//input 
+2020-07-16 19:07:18,843 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="5d0888da-e981-49d9-99e8-f8003db0282c")> 中输入： 30天 
+2020-07-16 19:07:19,261 - tools.report.log_tool - INFO - 定位元素 //span[text()='坚决不包邮'] 
+2020-07-16 19:07:19,303 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="356c9bd2-7d88-492c-8de7-f9e46a20c460")> 
+2020-07-16 19:07:19,873 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次数量']/../div//input 
+2020-07-16 19:07:19,919 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="30209bee-589e-4a6a-b739-a568e7e46786")> 中输入： 5 
+2020-07-16 19:07:20,300 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次价格']/../div//input 
+2020-07-16 19:07:20,338 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="4b29d6fb-62a9-4c9f-bf43-4fbc9743fc93")> 中输入： 15元 
+2020-07-16 19:07:20,743 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件数量']/../div//input 
+2020-07-16 19:07:20,784 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="96242c45-7279-4516-9181-5148d6975f95")> 中输入： 8 
+2020-07-16 19:07:21,156 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件价格']/../div//input 
+2020-07-16 19:07:21,190 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="0930892c-d029-41ed-8c4d-5d284f3b4bc5")> 中输入： 8元 
+2020-07-16 19:07:21,565 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary el-button--medium is-plain'] 
+2020-07-16 19:07:21,603 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="7386cc69-9cd5-48f1-973d-dafda2fb240d")> 
+2020-07-16 19:07:22,265 - tools.report.log_tool - INFO - 定位元素 //label[text()='包邮门栏']/../div//input 
+2020-07-16 19:07:22,320 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="0d7cdec5-27aa-4cee-a988-8ef8927c4ff6")> 中输入： 12 
+2020-07-16 19:07:22,751 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次数量']/../div//input 
+2020-07-16 19:07:22,792 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="828d6413-8825-436e-af53-92c5acf2b8d8")> 中输入： 12 
+2020-07-16 19:07:23,199 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次价格']/../div//input 
+2020-07-16 19:07:23,236 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="5c4520c4-bd9f-4247-a452-b19eae27bcdf")> 中输入： 12元 
+2020-07-16 19:07:23,654 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件数量']/../div//input 
+2020-07-16 19:07:23,697 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="cf6133ac-9a50-4503-b7b0-a62c6a35489b")> 中输入： 8 
+2020-07-16 19:07:24,063 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件价格']/../div//input 
+2020-07-16 19:07:24,109 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="287f8630-f3f2-4a98-ab76-8e43c9ba4b54")> 中输入： 12元 
+2020-07-16 19:07:24,564 - tools.report.log_tool - INFO - 定位元素 //span[text()='北京市'] 
+2020-07-16 19:07:24,610 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="5964e4da-7fa7-4b13-9af8-f566f2c5867f")> 
+2020-07-16 19:07:25,194 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-16 19:07:25,235 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="294a5e4b-06de-420c-84f9-c4e5edf939cb")> 
+2020-07-16 19:07:25,847 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[1] 
+2020-07-16 19:07:25,927 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b833dee86c99940c556e2d966a5e1f42", element="b7f0dd01-bc81-4afc-8042-ff7101579737")> 
+2020-07-16 19:55:42,129 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:55:42,130 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 19:56:02,825 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:56:02,863 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="e1916ebc-7834-472e-97d2-6a29e7ed12fd")> 中输入： admin 
+2020-07-16 19:56:03,344 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 19:56:03,389 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="3bfed057-6e2e-490b-bdb8-d80b902cd0d7")> 中输入： 1234567 
+2020-07-16 19:56:03,867 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 19:56:03,902 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="578180df-3e03-430a-abf2-79741307de53")> 
+2020-07-16 19:56:04,460 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 19:56:04,500 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="c8fe4b64-cd2d-40cb-b2c5-c3a62ed9b779")> 中输入： 1111 
+2020-07-16 19:56:06,892 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 19:56:06,941 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="90057e06-2e1c-4acb-9817-29a4283afcf4")> 
+2020-07-16 19:56:11,497 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-16 19:56:18,659 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="99f73667-414e-4933-9f15-a62ef4627b37")> 
+2020-07-16 19:56:19,368 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-16 19:56:19,485 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="4295bed5-18d4-4cd3-8fdc-7bebdefdb621")> 
+2020-07-16 19:56:20,118 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--mini'])[32] 
+2020-07-16 19:56:21,589 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="feba6181eab9b536ab11011a4b20864c", element="b9d05435-c0a3-4b79-919a-2ee3a2bcae78")> 
+2020-07-16 19:57:56,702 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 19:57:56,704 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 19:58:31,433 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 19:58:31,484 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a104455fc9cad06711983e44da977ded", element="88f887c9-ef72-47c0-897b-6cb29a4f594e")> 中输入： admin 
+2020-07-16 19:58:31,951 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 19:58:31,985 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a104455fc9cad06711983e44da977ded", element="921d0a05-06f2-42de-b70d-7eba08db3cda")> 中输入： 1234567 
+2020-07-16 19:58:32,450 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 19:58:32,485 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a104455fc9cad06711983e44da977ded", element="6d3fd509-355f-42ba-9aef-c6b8613967b2")> 
+2020-07-16 19:58:33,034 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 19:58:33,070 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a104455fc9cad06711983e44da977ded", element="bb2ff57f-634d-49fb-8705-1d28bb116c95")> 中输入： 1111 
+2020-07-16 19:58:35,454 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 19:58:35,503 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a104455fc9cad06711983e44da977ded", element="bf9a4c00-f5ea-4f0b-a253-a89bacf48de9")> 
+2020-07-16 19:58:40,057 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-16 19:58:50,575 - tools.report.log_tool - ERROR - ('xpath', "//span[text()='运营管理']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-16 20:00:05,978 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-16 20:00:05,979 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-16 20:00:21,141 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-16 20:00:21,188 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="fd7c54cf-6f2d-4b67-8788-a864a9f5ecb8")> 中输入： admin 
+2020-07-16 20:00:21,653 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-16 20:00:21,689 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="5e6b2689-33cb-4182-b242-f5547bcc88b8")> 中输入： 1234567 
+2020-07-16 20:00:22,159 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-16 20:00:22,208 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="12ce000b-23ad-43ef-af51-0b9149e35f5e")> 
+2020-07-16 20:00:22,753 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-16 20:00:22,792 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="86e0bc45-cdab-466c-b7cf-0806168ba5dc")> 中输入： 1111 
+2020-07-16 20:00:25,206 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-16 20:00:25,250 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="efa1d702-b59a-4ffd-b2d7-e5ce9c7821ff")> 
+2020-07-16 20:00:29,809 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-16 20:00:34,263 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="2e8880a6-3e48-4662-85f8-0624b93ab9ab")> 
+2020-07-16 20:00:35,050 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-16 20:00:35,169 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="a3c25b3f-b01b-42cf-8aa7-2cc29e2bab0b")> 
+2020-07-16 20:00:35,777 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--mini'])[32] 
+2020-07-16 20:00:38,965 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="3c392fbd-b383-46bc-8a8f-61235efaf4d7")> 
+2020-07-16 20:00:39,898 - tools.report.log_tool - INFO - 定位元素 //label[text()='模板名称']/../div//input 
+2020-07-16 20:00:39,962 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="12b819f6-a60a-45a6-a466-882fd99fa3b0")> 中输入： 胡文星 
+2020-07-16 20:00:40,542 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货地址']/../div//input 
+2020-07-16 20:00:40,592 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="73bc0162-6c64-42f6-b8c5-cbafbca040d5")> 中输入： 上海市 
+2020-07-16 20:00:41,182 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货期限']/../div//input 
+2020-07-16 20:00:41,221 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="a7bac295-0aac-44ea-b58d-f77adbe0679c")> 中输入： 30天 
+2020-07-16 20:00:41,729 - tools.report.log_tool - INFO - 定位元素 //span[text()='坚决不包邮'] 
+2020-07-16 20:00:41,800 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="d9d10433-13e9-498c-8ace-293fc316f7d9")> 
+2020-07-16 20:00:42,398 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次数量']/../div//input 
+2020-07-16 20:00:42,446 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="4fbf3bab-10f4-4c81-ae1d-33427a444fd0")> 中输入： 5 
+2020-07-16 20:00:42,866 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次价格']/../div//input 
+2020-07-16 20:00:42,937 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="77f57bb7-1891-4703-9878-116f5015d3ba")> 中输入： 15元 
+2020-07-16 20:00:43,378 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件数量']/../div//input 
+2020-07-16 20:00:43,450 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="7c3a7b02-36c0-4b00-b59c-027110399e68")> 中输入： 8 
+2020-07-16 20:00:43,847 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件价格']/../div//input 
+2020-07-16 20:00:43,939 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="a25e135e-30ec-44d8-9c06-9ffe718f841d")> 中输入： 8元 
+2020-07-16 20:00:44,373 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary el-button--medium is-plain'] 
+2020-07-16 20:00:44,459 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="d0af0cb1-59d8-4587-bd25-83fcd284f97a")> 
+2020-07-16 20:00:45,146 - tools.report.log_tool - INFO - 定位元素 //label[text()='包邮门栏']/../div//input 
+2020-07-16 20:00:45,258 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="9d9d9492-39f8-4cc6-a2f1-57703df3dacc")> 中输入： 12 
+2020-07-16 20:00:45,811 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次数量']/../div//input 
+2020-07-16 20:00:45,858 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="6546e044-8132-4a83-a5e4-52628009acc3")> 中输入： 12 
+2020-07-16 20:00:46,323 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次价格']/../div//input 
+2020-07-16 20:00:46,437 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="71741a78-2efa-421f-b24d-2c54b4a4e452")> 中输入： 12元 
+2020-07-16 20:00:46,970 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件数量']/../div//input 
+2020-07-16 20:00:47,016 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="4f8ce8dd-5cb4-4701-a5d2-d7f28bbf4081")> 中输入： 8 
+2020-07-16 20:00:47,423 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件价格']/../div//input 
+2020-07-16 20:00:47,479 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="489e6c61-13e2-483d-a595-1172e06bc8b1")> 中输入： 12元 
+2020-07-16 20:00:47,969 - tools.report.log_tool - INFO - 定位元素 //span[text()='北京市'] 
+2020-07-16 20:00:48,008 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="60ba6a7d-b334-4bc4-a771-9ae8ecb06cc1")> 
+2020-07-16 20:00:48,606 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-16 20:00:48,643 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="e0c77806-3b2f-4f5c-bbcb-c8ed03d322d4")> 
+2020-07-16 20:00:49,319 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[1] 
+2020-07-16 20:00:49,482 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a37d3e6c3fe447371619d135a0c2964", element="14f65f40-885f-43ff-938a-dce03e62662b")> 
+2020-07-17 09:06:14,011 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-17 09:06:14,090 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-17 09:06:29,478 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-17 09:06:29,515 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="0496c04e-4055-44c0-b761-c3072300b23f")> 中输入： admin 
+2020-07-17 09:06:30,021 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-17 09:06:30,053 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="d1c2ec33-ac32-4433-8651-44d8caccfd05")> 中输入： 1234567 
+2020-07-17 09:06:30,474 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-17 09:06:30,506 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="ed25e405-525d-4804-81a7-5486080dcddd")> 
+2020-07-17 09:06:31,116 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-17 09:06:31,184 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="e40af95e-51a3-47e9-9b7a-386856915e6c")> 中输入： 1111 
+2020-07-17 09:06:33,586 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-17 09:06:33,720 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="50c56baa-bcd9-41e9-8c42-c93903d7ac7e")> 
+2020-07-17 09:06:38,292 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-17 09:06:39,682 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="306c8f73-11cd-4007-804c-54f60d3fb914")> 
+2020-07-17 09:06:40,259 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-17 09:06:40,342 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="6260ea3f-ce05-4879-b131-7826c36cfcc7")> 
+2020-07-17 09:06:41,010 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--mini'])[32] 
+2020-07-17 09:06:47,701 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="9ea705a6-d050-4186-beff-cf4c4a069d46")> 
+2020-07-17 09:06:48,688 - tools.report.log_tool - INFO - 定位元素 //label[text()='模板名称']/../div//input 
+2020-07-17 09:06:49,015 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="667e1dd4-0af4-43a1-911d-0f3873978381")> 中输入： 春江潮水连海平 
+2020-07-17 09:06:49,814 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货地址']/../div//input 
+2020-07-17 09:06:49,897 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="307b0a14-2ff9-42a6-b61e-6c59e246bc89")> 中输入： 上海市 
+2020-07-17 09:06:50,492 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货期限']/../div//input 
+2020-07-17 09:06:50,542 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="6336f821-db37-4e56-9a4d-cfd85d62bea4")> 中输入： 30天 
+2020-07-17 09:06:51,073 - tools.report.log_tool - INFO - 定位元素 //span[text()='坚决不包邮'] 
+2020-07-17 09:06:51,124 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="72cb371a-41b4-417d-9314-ecd21fefd70a")> 
+2020-07-17 09:06:51,788 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次数量']/../div//input 
+2020-07-17 09:06:51,846 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="87374133-cb1e-4af5-9283-b88ac925efba")> 中输入： 5 
+2020-07-17 09:06:52,303 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次价格']/../div//input 
+2020-07-17 09:06:52,399 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="9e6e529a-6547-45be-b08b-188dadebe1cc")> 中输入： 15元 
+2020-07-17 09:06:52,889 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件数量']/../div//input 
+2020-07-17 09:06:52,974 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="8b1cb6d2-cb37-4c54-9d3a-1f7e2d2c56a4")> 中输入： 8 
+2020-07-17 09:06:53,415 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件价格']/../div//input 
+2020-07-17 09:06:53,537 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="7ecb9844-8d02-494c-90df-f419f2cf7cec")> 中输入： 8元 
+2020-07-17 09:06:54,115 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary el-button--medium is-plain'] 
+2020-07-17 09:06:54,162 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="6d76a6a3-f24b-4a38-af82-c180164a7dc2")> 
+2020-07-17 09:06:54,891 - tools.report.log_tool - INFO - 定位元素 //label[text()='包邮门栏']/../div//input 
+2020-07-17 09:06:55,130 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="f23aa24b-3557-4a4d-a4f3-4335ce961a31")> 中输入： 12 
+2020-07-17 09:06:55,733 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次数量']/../div//input 
+2020-07-17 09:06:55,774 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="05d376f1-61a7-4a35-ab2f-dd2c4b12cf41")> 中输入： 12 
+2020-07-17 09:06:56,331 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次价格']/../div//input 
+2020-07-17 09:06:56,371 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="71996b3f-963d-4cb8-ab31-c45e87c43ec4")> 中输入： 12元 
+2020-07-17 09:06:56,913 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件数量']/../div//input 
+2020-07-17 09:06:56,972 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="afe8e2fc-836a-4ed1-8f53-c85f9f828801")> 中输入： 8 
+2020-07-17 09:06:57,399 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件价格']/../div//input 
+2020-07-17 09:06:57,456 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="7ad6e490-b570-4a6c-9f38-224e4617dc21")> 中输入： 12元 
+2020-07-17 09:06:57,989 - tools.report.log_tool - INFO - 定位元素 //span[text()='北京市'] 
+2020-07-17 09:06:58,037 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="8b73ea83-d80d-444d-af4c-8ae089893651")> 
+2020-07-17 09:06:58,633 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-17 09:06:58,759 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="4dda1528-c8c4-45c1-9c4e-8173af9afb35")> 
+2020-07-17 09:06:59,536 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[1] 
+2020-07-17 09:06:59,908 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2cfc037c64d1a014c419028b60b37886", element="2440c98e-3c4d-4db8-8b18-e5155170531b")> 
+2020-07-17 09:21:18,307 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-17 09:21:18,307 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-17 09:21:33,256 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-17 09:21:33,319 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="fa754ca8-9875-4349-969a-aa0cdc711789")> 中输入： admin 
+2020-07-17 09:21:33,759 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-17 09:21:33,791 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="f78afd90-f0d0-4bcc-83ec-ac2f40df03e9")> 中输入： 1234567 
+2020-07-17 09:21:34,218 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-17 09:21:34,262 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="0d0c1148-5fb8-459d-bcdf-ccbdd89165de")> 
+2020-07-17 09:21:34,838 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-17 09:21:34,876 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="f5950bfe-333f-4735-838c-85792cd9b05f")> 中输入： 1111 
+2020-07-17 09:21:37,277 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-17 09:21:37,320 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="a06bdb3e-4a0b-42e6-b013-de6aae0d895a")> 
+2020-07-17 09:21:41,902 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-17 09:21:42,963 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="e210d520-ac44-4bb8-ae3e-7e44aeca62ab")> 
+2020-07-17 09:21:43,768 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-17 09:21:43,926 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="6ac35a5f-edcc-408e-b0c2-b91d2e640482")> 
+2020-07-17 09:21:44,550 - tools.report.log_tool - INFO - 定位元素 //span[text()='添加'] 
+2020-07-17 09:21:45,248 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="eee6d590-17c5-4d29-8c98-19ca561c9f6b")> 
+2020-07-17 09:21:46,546 - tools.report.log_tool - INFO - 定位元素 //label[text()='模板名称']/../div//input 
+2020-07-17 09:21:46,691 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="69e12683-8c04-4abf-96b9-88e844a054b5")> 中输入： huwxx 
+2020-07-17 09:21:47,210 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货地址']/../div//input 
+2020-07-17 09:21:47,247 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="a3399da7-bd04-4ad6-aa11-98034ba96589")> 中输入： 上海市 
+2020-07-17 09:21:47,612 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货期限']/../div//input 
+2020-07-17 09:21:47,651 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="47572edb-171c-4f6f-87e7-431347879497")> 中输入： 30天 
+2020-07-17 09:21:48,073 - tools.report.log_tool - INFO - 定位元素 //span[text()='坚决不包邮'] 
+2020-07-17 09:21:48,128 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="305b2caa-67f8-4032-a869-0bfa3681a25b")> 
+2020-07-17 09:21:48,707 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次数量']/../div//input 
+2020-07-17 09:21:48,755 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="55afc787-4020-4b49-9109-65498e52b751")> 中输入： 5 
+2020-07-17 09:21:49,176 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次价格']/../div//input 
+2020-07-17 09:21:49,211 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="e288e590-0e81-4de6-9cd5-0b5247b080c6")> 中输入： 15元 
+2020-07-17 09:21:49,639 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件数量']/../div//input 
+2020-07-17 09:21:49,677 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="143d7db4-5447-4c9c-9c51-8d5510dd1692")> 中输入： 8 
+2020-07-17 09:21:50,124 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件价格']/../div//input 
+2020-07-17 09:21:50,163 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="0216d3e9-8e90-4b24-97a7-60ae9613fb9b")> 中输入： 8元 
+2020-07-17 09:21:50,594 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary el-button--medium is-plain'] 
+2020-07-17 09:21:50,637 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="0a43e4a4-b70c-4eae-843c-81f6bd46bd9c")> 
+2020-07-17 09:21:51,289 - tools.report.log_tool - INFO - 定位元素 //label[text()='包邮门栏']/../div//input 
+2020-07-17 09:21:51,336 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="2869701e-ec3f-460b-81ad-3ca0ad786a11")> 中输入： 12 
+2020-07-17 09:21:51,790 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次数量']/../div//input 
+2020-07-17 09:21:51,869 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="00c0ec4f-2403-4c7d-bf21-d903dd0a3b75")> 中输入： 12 
+2020-07-17 09:21:52,262 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次价格']/../div//input 
+2020-07-17 09:21:52,321 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="d5cb7ced-ca7b-4f9d-889a-15425d5b7889")> 中输入： 12元 
+2020-07-17 09:21:52,733 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件数量']/../div//input 
+2020-07-17 09:21:52,779 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="d070319c-9895-4b69-b140-65ef05d1294b")> 中输入： 8 
+2020-07-17 09:21:53,235 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件价格']/../div//input 
+2020-07-17 09:21:53,299 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="c65f482b-d063-47d1-83a9-5b2e93c08cad")> 中输入： 12元 
+2020-07-17 09:21:53,685 - tools.report.log_tool - INFO - 定位元素 //span[text()='北京市'] 
+2020-07-17 09:21:53,755 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="7df5c40c-c9b1-424c-aa04-1578c9261904")> 
+2020-07-17 09:21:54,366 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-17 09:21:54,412 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="0d110ad9-be88-411d-a5bf-da10b924965b")> 
+2020-07-17 09:21:55,062 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[1] 
+2020-07-17 09:21:55,245 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="78392b3d08e72833ec7b96b343d0f212", element="ee09412e-dd39-4f96-9fe8-de3ca29efaf8")> 
+2020-07-17 09:34:32,636 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-07-17 09:34:32,636 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-17 09:34:47,600 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-17 09:34:47,637 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="a507a0d2-4585-4339-97e9-3a2ef302f1dd")> 中输入： admin 
+2020-07-17 09:34:48,086 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-17 09:34:48,122 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="6ba2e744-db41-40ff-886d-3d55192a7f19")> 中输入： 1234567 
+2020-07-17 09:34:48,484 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-17 09:34:48,514 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="9e0d4e4a-c587-4497-ba8d-3f12748de497")> 
+2020-07-17 09:34:49,048 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-17 09:34:49,092 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="740f7e27-bf8f-41ee-9fef-d9a84cbbb495")> 中输入： 1111 
+2020-07-17 09:34:51,479 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-17 09:34:51,533 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="9084f1ea-a659-4e7f-9288-d2e2cc5050e7")> 
+2020-07-17 09:34:56,193 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-17 09:34:57,454 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="746aca1f-d215-42ec-86bb-757ca7a1d8d4")> 
+2020-07-17 09:34:58,092 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-17 09:34:58,185 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="42178719-6de1-47f1-ac3e-bde3bc613fe3")> 
+2020-07-17 09:34:58,839 - tools.report.log_tool - INFO - 定位元素 //span[text()='添加'] 
+2020-07-17 09:34:59,696 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="268a5872-800c-4f3c-83d9-514f6549b4ed")> 
+2020-07-17 09:35:01,055 - tools.report.log_tool - INFO - 定位元素 //label[text()='模板名称']/../div//input 
+2020-07-17 09:35:01,393 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="cb983d47-7cc6-488c-9371-4311d34cb632")> 中输入： huwxx 
+2020-07-17 09:35:01,859 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货地址']/../div//input 
+2020-07-17 09:35:01,895 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="1bf79c38-226d-4a11-ab97-81e4128e5d7f")> 中输入： 上海市 
+2020-07-17 09:35:02,286 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货期限']/../div//input 
+2020-07-17 09:35:02,326 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="fe69f0da-b728-46f0-aaf0-003269d3fbd1")> 中输入： 30天 
+2020-07-17 09:35:02,696 - tools.report.log_tool - INFO - 定位元素 //span[text()='坚决不包邮'] 
+2020-07-17 09:35:02,758 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="c78f03a5-0df8-4297-aba1-b495f0703a4d")> 
+2020-07-17 09:35:03,363 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次数量']/../div//input 
+2020-07-17 09:35:03,410 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="6f7ede74-a22c-48de-9225-53216c334e74")> 中输入： 5 
+2020-07-17 09:35:03,829 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次价格']/../div//input 
+2020-07-17 09:35:03,870 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="ef314117-6fd9-4695-884c-4b6a05169ffe")> 中输入： 15元 
+2020-07-17 09:35:04,290 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件数量']/../div//input 
+2020-07-17 09:35:04,333 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="00f7d3cc-fbc2-4b06-88ab-779fd7afc0c8")> 中输入： 8 
+2020-07-17 09:35:04,718 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件价格']/../div//input 
+2020-07-17 09:35:04,775 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="8d949b1d-445c-4e97-aa91-4fb15d441482")> 中输入： 8元 
+2020-07-17 09:35:05,184 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary el-button--medium is-plain'] 
+2020-07-17 09:35:05,221 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="efb59dcd-0b76-4acc-ab3e-dd23bf2f397c")> 
+2020-07-17 09:35:05,896 - tools.report.log_tool - INFO - 定位元素 //label[text()='包邮门栏']/../div//input 
+2020-07-17 09:35:05,957 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="0c1f0a1d-5592-4f9d-a99c-1e02d99c0248")> 中输入： 12 
+2020-07-17 09:35:06,440 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次数量']/../div//input 
+2020-07-17 09:35:06,525 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="62d5f73f-3d65-4de9-926a-d88241e66a10")> 中输入： 12 
+2020-07-17 09:35:06,954 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次价格']/../div//input 
+2020-07-17 09:35:07,066 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="25d4d8ee-52aa-4387-8231-1233f68acf41")> 中输入： 12元 
+2020-07-17 09:35:07,462 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件数量']/../div//input 
+2020-07-17 09:35:07,537 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="be9979a3-162f-4843-add5-889cfe732939")> 中输入： 8 
+2020-07-17 09:35:07,913 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件价格']/../div//input 
+2020-07-17 09:35:07,962 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="9ce82759-916d-4a77-8e77-75731e70d901")> 中输入： 12元 
+2020-07-17 09:35:08,350 - tools.report.log_tool - INFO - 定位元素 //span[text()='北京市'] 
+2020-07-17 09:35:08,423 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="478b13d5-c3da-40ce-9e7a-99f4afce817a")> 
+2020-07-17 09:35:09,058 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-17 09:35:09,176 - tools.report.log_tool - INFO - 屏幕滚动至元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="6f20b080-7b7e-443d-843f-b4b305582ff0")> 出现 
+2020-07-17 09:35:09,223 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-17 09:35:09,270 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="6f20b080-7b7e-443d-843f-b4b305582ff0")> 
+2020-07-17 09:35:09,883 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[1] 
+2020-07-17 09:35:09,950 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d0b8a29c76da9547de31bd0e840d7ffa", element="2c90db22-597c-4adf-a05a-1f21396c4975")> 
+2020-07-17 10:10:04,272 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 10:10:04,272 - tools.report.log_tool - INFO - 打开网址： http://qa.yansl.com/#/login 
+2020-07-17 10:10:19,152 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入用户名"] 
+2020-07-17 10:10:19,219 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="58812153-b0b6-4892-8433-0fcdce688d7a")> 中输入： admin 
+2020-07-17 10:10:19,764 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入密码"] 
+2020-07-17 10:10:19,802 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="38dab080-115c-48f2-a583-60376425a573")> 中输入： 1234567 
+2020-07-17 10:10:20,190 - tools.report.log_tool - INFO - 定位元素 //span[text()="验证码"] 
+2020-07-17 10:10:20,236 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="01685213-9ffa-45c3-b44c-e3c44fbd50aa")> 
+2020-07-17 10:10:20,810 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="输入验证码"] 
+2020-07-17 10:10:20,866 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="5151e5e6-ee9e-41c5-a679-619a81f33e97")> 中输入： 1111 
+2020-07-17 10:10:23,354 - tools.report.log_tool - INFO - 定位元素 //span[text()="登录"]/.. 
+2020-07-17 10:10:23,406 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="f9600b4b-1042-4e30-a68d-c1b077407570")> 
+2020-07-17 10:10:28,026 - tools.report.log_tool - INFO - 定位元素 //span[text()='运营管理'] 
+2020-07-17 10:10:29,409 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="3a4129a9-49f3-40ed-8692-226782256721")> 
+2020-07-17 10:10:30,221 - tools.report.log_tool - INFO - 定位元素 //span[text()='运费模板管理'] 
+2020-07-17 10:10:30,404 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="1ee4ebf9-3f53-4ea5-8b94-4ecff8cb1560")> 
+2020-07-17 10:10:31,117 - tools.report.log_tool - INFO - 定位元素 //span[text()='添加'] 
+2020-07-17 10:10:31,882 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="0bb1427e-d81c-4206-9c0a-33429632f3eb")> 
+2020-07-17 10:10:33,521 - tools.report.log_tool - INFO - 定位元素 //label[text()='模板名称']/../div//input 
+2020-07-17 10:10:33,644 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="07722d7e-291f-4205-aea8-eabbf3a5ad9d")> 中输入： 123456 
+2020-07-17 10:10:34,314 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货地址']/../div//input 
+2020-07-17 10:10:34,360 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="d1d9bfbf-924e-47c0-9108-595decb875cd")> 中输入： 上海市 
+2020-07-17 10:10:34,767 - tools.report.log_tool - INFO - 定位元素 //label[text()='发货期限']/../div//input 
+2020-07-17 10:10:34,813 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="c8977626-66b1-47eb-a3fc-4c5e4cc4f02a")> 中输入： 30天 
+2020-07-17 10:10:35,220 - tools.report.log_tool - INFO - 定位元素 //span[text()='坚决不包邮'] 
+2020-07-17 10:10:35,270 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="ab88d290-b52c-4066-9f8f-ce0388c36110")> 
+2020-07-17 10:10:35,847 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次数量']/../div//input 
+2020-07-17 10:10:35,894 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="d2ad41d7-c110-45d9-8c00-79c99967aeaf")> 中输入： 5 
+2020-07-17 10:10:36,394 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费首次价格']/../div//input 
+2020-07-17 10:10:36,459 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="2435ace3-81be-4044-93cc-09a197517456")> 中输入： 15元 
+2020-07-17 10:10:36,890 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件数量']/../div//input 
+2020-07-17 10:10:36,939 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="f30142d8-5beb-4279-96cb-ecf7fbaebc6c")> 中输入： 8 
+2020-07-17 10:10:37,324 - tools.report.log_tool - INFO - 定位元素 //label[text()='计费续件价格']/../div//input 
+2020-07-17 10:10:37,382 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="b69b059e-ccfd-47a7-9c9f-21269a27928d")> 中输入： 8元 
+2020-07-17 10:10:37,763 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary el-button--medium is-plain'] 
+2020-07-17 10:10:37,831 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="064bca78-6826-45ae-9d4a-86270ce2e08c")> 
+2020-07-17 10:10:38,537 - tools.report.log_tool - INFO - 定位元素 //label[text()='包邮门栏']/../div//input 
+2020-07-17 10:10:38,678 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="3996d76a-cfae-414a-a2f1-5f707f7fe377")> 中输入： 12 
+2020-07-17 10:10:39,149 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次数量']/../div//input 
+2020-07-17 10:10:39,210 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="4543b22a-07f0-468b-92f3-d8c574c84ad0")> 中输入： 12 
+2020-07-17 10:10:39,586 - tools.report.log_tool - INFO - 定位元素 //label[text()='首次价格']/../div//input 
+2020-07-17 10:10:39,636 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="b00dddb2-61f0-4f21-b3dd-2c9937f486a5")> 中输入： 12元 
+2020-07-17 10:10:40,018 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件数量']/../div//input 
+2020-07-17 10:10:40,086 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="31c3b23d-c6a5-46d9-9c48-c4b0f4ba7197")> 中输入： 8 
+2020-07-17 10:10:40,475 - tools.report.log_tool - INFO - 定位元素 //label[text()='续件价格']/../div//input 
+2020-07-17 10:10:40,534 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="b081b92d-8630-4d76-872d-7097788a28ed")> 中输入： 12元 
+2020-07-17 10:10:40,986 - tools.report.log_tool - INFO - 定位元素 //span[text()='北京市'] 
+2020-07-17 10:10:41,050 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="5c7cead9-27ea-40ba-8bb4-1a631804ae0a")> 
+2020-07-17 10:10:41,635 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-17 10:10:41,682 - tools.report.log_tool - INFO - 屏幕滚动至元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="2c3e24ea-6e68-41b3-8580-b7cae5faad26")> 出现 
+2020-07-17 10:10:41,692 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[2] 
+2020-07-17 10:10:41,765 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="2c3e24ea-6e68-41b3-8580-b7cae5faad26")> 
+2020-07-17 10:10:42,358 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--primary el-button--medium'])[1] 
+2020-07-17 10:10:42,506 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7b4daf131ba098b01c808eecb41c90f2", element="91c1d8ad-c750-414e-b8fa-61d20854194c")> 
+2020-07-17 10:49:33,539 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 10:49:33,541 - tools.report.log_tool - INFO - 定位元素 //label[text()='商品图片']/../div//i 
+2020-07-17 10:49:33,784 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2a2a5fc0a4fdfcf4a26dba655d379652", element="1ad84f9b-f43c-4aed-83f6-d93d877ec685")> 
+2020-07-17 10:49:35,827 - tools.report.log_tool - INFO - 上传文件 D:\softwaredata\auto_ui_2006A\test_case\demo\Ñ.png 
+2020-07-17 10:50:20,603 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 10:50:20,606 - tools.report.log_tool - INFO - 定位元素 //label[text()='商品图片']/../div//i 
+2020-07-17 10:50:20,693 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="8efe4b764f81868766b21733a260cfa2", element="1ad84f9b-f43c-4aed-83f6-d93d877ec685")> 
+2020-07-17 10:50:22,811 - tools.report.log_tool - INFO - 上传文件 D:\softwaredata\auto_ui_2006A\test_case\demo\Ñ.png 
+2020-07-17 10:50:53,148 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 10:50:53,149 - tools.report.log_tool - INFO - 定位元素 //label[text()='商品图片']/../div//i 
+2020-07-17 10:50:53,255 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="77f192cdcdcaacf97327f4242110413d", element="1ad84f9b-f43c-4aed-83f6-d93d877ec685")> 
+2020-07-17 10:50:55,152 - tools.report.log_tool - INFO - 上传文件 D:\321.png 
+2020-07-17 11:31:58,696 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 11:31:58,697 - tools.report.log_tool - INFO - 定位元素 tag_name=>iframe 
+2020-07-17 11:31:58,753 - tools.report.log_tool - INFO - 切入iframe： <selenium.webdriver.remote.webelement.WebElement (session="bca6525bdbe6d80780011b1a76c73d1f", element="8965fe6a-31f8-4411-b5dd-822af8adcc53")> 
+2020-07-17 11:31:58,791 - tools.report.log_tool - INFO - 定位元素 //body[@id='tinymce'] 
+2020-07-17 11:31:58,822 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="bca6525bdbe6d80780011b1a76c73d1f", element="90e1a63d-b7fa-4787-b228-a4ca62e6fdcf")> 中输入： 测试一下 
+2020-07-17 11:33:56,285 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 11:33:56,287 - tools.report.log_tool - INFO - 定位元素 tag_name=>iframe 
+2020-07-17 11:33:56,347 - tools.report.log_tool - INFO - 切入iframe： <selenium.webdriver.remote.webelement.WebElement (session="0ced8723310617028e6b6eb8aff9330d", element="8965fe6a-31f8-4411-b5dd-822af8adcc53")> 
+2020-07-17 11:33:56,384 - tools.report.log_tool - INFO - 定位元素 //body[@id='tinymce'] 
+2020-07-17 11:33:56,416 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="0ced8723310617028e6b6eb8aff9330d", element="90e1a63d-b7fa-4787-b228-a4ca62e6fdcf")> 中输入： 测试一下 
+2020-07-17 11:33:56,977 - tools.report.log_tool - INFO - 退出当前iframe 
+2020-07-17 11:33:56,982 - tools.report.log_tool - INFO - 定位元素 (//span[text()='添加'])[1] 
+2020-07-17 11:33:57,016 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="0ced8723310617028e6b6eb8aff9330d", element="3f93eeca-e079-444b-8a30-3a86f8120215")> 
+2020-07-17 11:34:05,261 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 11:34:05,263 - tools.report.log_tool - INFO - 定位元素 tag_name=>iframe 
+2020-07-17 11:34:05,304 - tools.report.log_tool - INFO - 切入iframe： <selenium.webdriver.remote.webelement.WebElement (session="019820d1bc28b798f89053d305be1615", element="8965fe6a-31f8-4411-b5dd-822af8adcc53")> 
+2020-07-17 11:34:05,338 - tools.report.log_tool - INFO - 定位元素 //body[@id='tinymce'] 
+2020-07-17 11:34:05,375 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="019820d1bc28b798f89053d305be1615", element="90e1a63d-b7fa-4787-b228-a4ca62e6fdcf")> 中输入： 测试一下 
+2020-07-17 11:34:06,140 - tools.report.log_tool - INFO - 退出当前iframe 
+2020-07-17 11:34:06,146 - tools.report.log_tool - INFO - 定位元素 (//span[text()='添加'])[1] 
+2020-07-17 11:34:06,284 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="019820d1bc28b798f89053d305be1615", element="3f93eeca-e079-444b-8a30-3a86f8120215")> 
+2020-07-17 11:34:18,544 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 11:34:18,546 - tools.report.log_tool - INFO - 定位元素 tag_name=>iframe 
+2020-07-17 11:34:18,576 - tools.report.log_tool - INFO - 切入iframe： <selenium.webdriver.remote.webelement.WebElement (session="349212931f4d50368366eeca6f9085e5", element="8965fe6a-31f8-4411-b5dd-822af8adcc53")> 
+2020-07-17 11:34:18,602 - tools.report.log_tool - INFO - 定位元素 //body[@id='tinymce'] 
+2020-07-17 11:34:18,634 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="349212931f4d50368366eeca6f9085e5", element="90e1a63d-b7fa-4787-b228-a4ca62e6fdcf")> 中输入： 测试一下 
+2020-07-17 11:34:19,256 - tools.report.log_tool - INFO - 退出当前iframe 
+2020-07-17 11:34:19,259 - tools.report.log_tool - INFO - 定位元素 (//span[text()='添加'])[1] 
+2020-07-17 11:34:19,287 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="349212931f4d50368366eeca6f9085e5", element="3f93eeca-e079-444b-8a30-3a86f8120215")> 
+2020-07-17 15:30:49,115 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 15:30:49,117 - tools.report.log_tool - INFO - 定位元素 (//a[text()='女装'])[1] 
+2020-07-17 15:30:49,281 - tools.report.log_tool - INFO - 鼠标悬浮在： <selenium.webdriver.remote.webelement.WebElement (session="97089c58c31192a85a46daa4bf1c5c79", element="a061cd55-bdaa-4cbe-a4c8-b589a6e3ed90")> 
+2020-07-17 15:31:14,337 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 15:31:14,339 - tools.report.log_tool - INFO - 定位元素 (//a[text()='手机'])[1] 
+2020-07-17 15:31:14,396 - tools.report.log_tool - INFO - 鼠标悬浮在： <selenium.webdriver.remote.webelement.WebElement (session="3889c1b8189d59b385e8c04786412a6f", element="40a7ef38-e4c4-46c0-8539-d84ee2dd3568")> 
+2020-07-17 15:31:32,233 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 15:31:32,235 - tools.report.log_tool - INFO - 定位元素 (//a[text()='手机'])[1] 
+2020-07-17 15:31:32,294 - tools.report.log_tool - INFO - 鼠标悬浮在： <selenium.webdriver.remote.webelement.WebElement (session="2a576d9fcb9e204f4c61e761b1d74fb3", element="40a7ef38-e4c4-46c0-8539-d84ee2dd3568")> 
+2020-07-17 16:39:10,785 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 16:39:10,789 - tools.report.log_tool - INFO - 定位元素 //span[text()='默认']/..//div[@class='el-tooltip el-slider__button'] 
+2020-07-17 16:39:21,304 - tools.report.log_tool - ERROR - ('xpath', "//span[text()='默认']/..//div[@class='el-tooltip el-slider__button']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 16:40:59,854 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 16:40:59,857 - tools.report.log_tool - INFO - 定位元素 //span[text()='默认']/..//div[@class='el-tooltip el-slider__button'] 
+2020-07-17 16:40:59,954 - tools.report.log_tool - INFO - 拖拽： <selenium.webdriver.remote.webelement.WebElement (session="7992f9d9b655aafdceb7aa2b43af89e6", element="5aba3118-3fd4-471f-9b59-7eca76d7e9ce")> 横向移动： 100 像素,纵向移动 0 像素 
+2020-07-17 16:41:16,265 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 16:41:16,267 - tools.report.log_tool - INFO - 定位元素 //span[text()='默认']/..//div[@class='el-tooltip el-slider__button'] 
+2020-07-17 16:41:17,367 - tools.report.log_tool - INFO - 拖拽： <selenium.webdriver.remote.webelement.WebElement (session="e5a51e2de346d399494053734f6a32ba", element="5aba3118-3fd4-471f-9b59-7eca76d7e9ce")> 横向移动： 100 像素,纵向移动 0 像素 
+2020-07-17 16:41:30,994 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 16:41:30,996 - tools.report.log_tool - INFO - 定位元素 //span[text()='默认']/..//div[@class='el-tooltip el-slider__button'] 
+2020-07-17 16:41:31,056 - tools.report.log_tool - INFO - 拖拽： <selenium.webdriver.remote.webelement.WebElement (session="505c2f3cb26205c5a3dddc36dbbdc41b", element="5aba3118-3fd4-471f-9b59-7eca76d7e9ce")> 横向移动： 100 像素,纵向移动 0 像素 
+2020-07-17 16:41:38,343 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 16:41:38,345 - tools.report.log_tool - INFO - 定位元素 //span[text()='默认']/..//div[@class='el-tooltip el-slider__button'] 
+2020-07-17 16:41:38,379 - tools.report.log_tool - INFO - 拖拽： <selenium.webdriver.remote.webelement.WebElement (session="b34562a200ee75c11392bc91a7844148", element="5aba3118-3fd4-471f-9b59-7eca76d7e9ce")> 横向移动： 100 像素,纵向移动 0 像素 
+2020-07-17 17:07:35,473 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:07:54,516 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:08:27,808 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:08:27,810 - tools.report.log_tool - INFO - 定位元素 h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar'] 
+2020-07-17 17:08:38,343 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:09:47,322 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:09:47,324 - tools.report.log_tool - INFO - 定位元素 h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar'] 
+2020-07-17 17:09:57,840 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:10:49,019 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:10:49,021 - tools.report.log_tool - INFO - 定位元素 h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar'] 
+2020-07-17 17:10:59,556 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:12:08,150 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:12:08,151 - tools.report.log_tool - INFO - 定位元素 h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar'] 
+2020-07-17 17:12:18,687 - tools.report.log_tool - ERROR - ('xpath', "h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-slider__bar']")定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-07-17 17:17:54,130 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2020-07-17 17:17:54,131 - tools.report.log_tool - INFO - 定位元素 //h3[@id='shu-xiang-mo-shi']/following-sibling::div[1]//div[@class='el-tooltip el-slider__button'] 
+2020-07-17 17:17:54,170 - tools.report.log_tool - INFO - 拖拽： <selenium.webdriver.remote.webelement.WebElement (session="04d38d3ea9b74766aa33d723355a72d5", element="9227fba7-98b5-4472-b1f6-bf3f96bfc684")> 横向移动： 0 像素,纵向移动 -50 像素 

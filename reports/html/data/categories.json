@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "children" : [ {
+        "name" : "登录",
+        "uid" : "c7a0e94d25b7ba58",
+        "parentUid" : "ef9d4ce3b49c0843f370eaaf0c404f93",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595317184579,
+          "stop" : 1595317195188,
+          "duration" : 10609
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ef9d4ce3b49c0843f370eaaf0c404f93"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

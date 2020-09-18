@@ -1,0 +1,28 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_practice",
+      "children" : [ {
+        "children" : [ {
+          "name" : "登录",
+          "uid" : "c7a0e94d25b7ba58",
+          "parentUid" : "e586c3b7bf0b441346890adf0726d495",
+          "status" : "broken",
+          "time" : {
+            "start" : 1595317184579,
+            "stop" : 1595317195188,
+            "duration" : 10609
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e586c3b7bf0b441346890adf0726d495"
+      } ],
+      "uid" : "d41e27a08913b2946ede92808ffd14f1"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

@@ -1,0 +1,4 @@
+INFO     tools.report.log_tool:log_tool.py:34 -------测试开始，启动chrome_debugger浏览器成功-------
+INFO     tools.report.log_tool:log_tool.py:34 打开网址： http://qa.yansl.com/#/login 
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 //input[@placeholder="请输入用户名"] 
+ERROR    tools.report.log_tool:log_tool.py:46 ('xpath', '//input[@placeholder="请输入用户名"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式

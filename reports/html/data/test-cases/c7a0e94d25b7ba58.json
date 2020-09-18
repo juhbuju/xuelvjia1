@@ -1,0 +1,134 @@
+{
+  "uid" : "c7a0e94d25b7ba58",
+  "name" : "登录",
+  "fullName" : "test_case.test_practice#test_radio",
+  "historyId" : "962e4cd39d6410b54d3f99215e3769db",
+  "time" : {
+    "start" : 1595317184579,
+    "stop" : 1595317195188,
+    "duration" : 10609
+  },
+  "status" : "broken",
+  "statusMessage" : "selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+  "statusTrace" : "self = <tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>\nlocator = '//input[@placeholder=\"请输入用户名\"]'\n\n    def get_element(self,locator):\n        '''\n        根据传入的数据来定位页面元素\n        :param locator: 定位语句 例如：xpath=>//*[@id='kw']\n        :return: 元素定位结果\n        '''\n        self.shot(\"定位元素\",locator)\n        local = self.get_locator(locator)\n        try:\n            el = WebDriverWait(BaseUI.driver, self.timeout).until(\n>               EC.presence_of_element_located(local))\n\ntools\\ui\\base_ui.py:122: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"c136199c27aab9f8d588f82f947a7acd\")>\nmethod = <selenium.webdriver.support.expected_conditions.presence_of_element_located object at 0x0000013D29DE8128>\nmessage = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\nvenv\\lib\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException\n\nDuring handling of the above exception, another exception occurred:\n\ndriver = <tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>\n\n    @allure.feature(\"用户模块\")\n    @allure.story(\"用户登录\")\n    @allure.title(\"登录\")\n    @allure.step(\"登录\")\n    def test_radio(driver):\n        #打开登陆界面\n        driver.get(\"http://qa.yansl.com/#/login\")\n        #输入用户名\n>       driver.send_keys('//input[@placeholder=\"请输入用户名\"]',\"admin\")\n\ntest_case\\test_practice.py:13: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ntools\\ui\\base_ui.py:237: in send_keys\n    element = self.get_element(locator)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>\nlocator = '//input[@placeholder=\"请输入用户名\"]'\n\n    def get_element(self,locator):\n        '''\n        根据传入的数据来定位页面元素\n        :param locator: 定位语句 例如：xpath=>//*[@id='kw']\n        :return: 元素定位结果\n        '''\n        self.shot(\"定位元素\",locator)\n        local = self.get_locator(locator)\n        try:\n            el = WebDriverWait(BaseUI.driver, self.timeout).until(\n                EC.presence_of_element_located(local))\n            BaseUI.driver.execute_script(\"element = arguments[0];\" +\n        \"original_style = element.getAttribute('style');\" +\n        \"element.setAttribute('style', original_style + \\\";\" +\n        \"background: yellow; border: 2px solid red;\\\");\" +\n        \"setTimeout(function(){element.setAttribute('style', original_style);}, 1000);\", el)\n            return WebDriverWait(BaseUI.driver, self.timeout).until(\n                EC.presence_of_element_located(local))\n        except TimeoutException:\n            time_out_error = \"{}定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式\".format(local)\n            log_tool.error(time_out_error)\n>           raise TimeoutException(time_out_error)\nE           selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式\n\ntools\\ui\\base_ui.py:133: TimeoutException",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1595317184019,
+      "stop" : 1595317184577,
+      "duration" : 558
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+    "statusTrace" : "self = <tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>\nlocator = '//input[@placeholder=\"请输入用户名\"]'\n\n    def get_element(self,locator):\n        '''\n        根据传入的数据来定位页面元素\n        :param locator: 定位语句 例如：xpath=>//*[@id='kw']\n        :return: 元素定位结果\n        '''\n        self.shot(\"定位元素\",locator)\n        local = self.get_locator(locator)\n        try:\n            el = WebDriverWait(BaseUI.driver, self.timeout).until(\n>               EC.presence_of_element_located(local))\n\ntools\\ui\\base_ui.py:122: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"c136199c27aab9f8d588f82f947a7acd\")>\nmethod = <selenium.webdriver.support.expected_conditions.presence_of_element_located object at 0x0000013D29DE8128>\nmessage = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\nvenv\\lib\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException\n\nDuring handling of the above exception, another exception occurred:\n\ndriver = <tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>\n\n    @allure.feature(\"用户模块\")\n    @allure.story(\"用户登录\")\n    @allure.title(\"登录\")\n    @allure.step(\"登录\")\n    def test_radio(driver):\n        #打开登陆界面\n        driver.get(\"http://qa.yansl.com/#/login\")\n        #输入用户名\n>       driver.send_keys('//input[@placeholder=\"请输入用户名\"]',\"admin\")\n\ntest_case\\test_practice.py:13: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ntools\\ui\\base_ui.py:237: in send_keys\n    element = self.get_element(locator)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>\nlocator = '//input[@placeholder=\"请输入用户名\"]'\n\n    def get_element(self,locator):\n        '''\n        根据传入的数据来定位页面元素\n        :param locator: 定位语句 例如：xpath=>//*[@id='kw']\n        :return: 元素定位结果\n        '''\n        self.shot(\"定位元素\",locator)\n        local = self.get_locator(locator)\n        try:\n            el = WebDriverWait(BaseUI.driver, self.timeout).until(\n                EC.presence_of_element_located(local))\n            BaseUI.driver.execute_script(\"element = arguments[0];\" +\n        \"original_style = element.getAttribute('style');\" +\n        \"element.setAttribute('style', original_style + \\\";\" +\n        \"background: yellow; border: 2px solid red;\\\");\" +\n        \"setTimeout(function(){element.setAttribute('style', original_style);}, 1000);\", el)\n            return WebDriverWait(BaseUI.driver, self.timeout).until(\n                EC.presence_of_element_located(local))\n        except TimeoutException:\n            time_out_error = \"{}定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式\".format(local)\n            log_tool.error(time_out_error)\n>           raise TimeoutException(time_out_error)\nE           selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式\n\ntools\\ui\\base_ui.py:133: TimeoutException",
+    "steps" : [ {
+      "name" : "登录",
+      "time" : {
+        "start" : 1595317184579,
+        "stop" : 1595317195186,
+        "duration" : 10607
+      },
+      "status" : "broken",
+      "statusMessage" : "selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式\n\n",
+      "statusTrace" : "  File \"D:\\softwaredata\\auto_ui_2006A\\venv\\lib\\site-packages\\allure_commons\\_allure.py\", line 153, in impl\n    return func(*a, **kw)\n  File \"D:\\softwaredata\\auto_ui_2006A\\test_case\\test_practice.py\", line 13, in test_radio\n    driver.send_keys('//input[@placeholder=\"请输入用户名\"]',\"admin\")\n  File \"D:\\softwaredata\\auto_ui_2006A\\tools\\ui\\base_ui.py\", line 237, in send_keys\n    element = self.get_element(locator)\n  File \"D:\\softwaredata\\auto_ui_2006A\\tools\\ui\\base_ui.py\", line 133, in get_element\n    raise TimeoutException(time_out_error)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "driver",
+        "value" : "<tools.ui.base_ui.BaseUI object at 0x0000013D29D83358>"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "19b4b8f50911ee62",
+      "name" : "log",
+      "source" : "19b4b8f50911ee62.txt",
+      "type" : "text/plain",
+      "size" : 494
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1595317195280,
+      "stop" : 1595317198323,
+      "duration" : 3043
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用户登录"
+  }, {
+    "name" : "feature",
+    "value" : "用户模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_practice"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-7HR5SK1"
+  }, {
+    "name" : "thread",
+    "value" : "5924-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_practice"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c7a0e94d25b7ba58.json",
+  "parameterValues" : [ ]
+}

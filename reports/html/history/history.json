@@ -1,0 +1,22 @@
+{
+  "962e4cd39d6410b54d3f99215e3769db" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7a0e94d25b7ba58",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: ('xpath', '//input[@placeholder=\"请输入用户名\"]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "time" : {
+        "start" : 1595317184579,
+        "stop" : 1595317195188,
+        "duration" : 10609
+      }
+    } ]
+  }
+}
